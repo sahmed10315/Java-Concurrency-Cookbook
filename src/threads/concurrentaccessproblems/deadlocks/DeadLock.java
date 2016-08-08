@@ -1,4 +1,4 @@
-package thread.concurrentaccessproblems.deadlocks;
+package threads.concurrentaccessproblems.deadlocks;
 
 /* Deadlock describes a situation where two or more threads are blocked forever, waiting for each other.
  * Deadlock occurs when multiple threads need the same locks but obtain them in different order.
