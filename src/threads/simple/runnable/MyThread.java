@@ -1,4 +1,4 @@
-package runnable.simple;
+package threads.simple.runnable;
 
 /* Simple implementation of creating a thread by implementing Runnable interface.
  * main() method is executed as a separate thread, so we have two threads. */
