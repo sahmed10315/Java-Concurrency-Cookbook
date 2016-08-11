@@ -7,7 +7,7 @@ import java.util.concurrent.Semaphore;
 public class ATMRoom {
 
 	public static void main(String [] args) {
-		Semaphore machines = new Semaphore(1);
+		Semaphore machines = new Semaphore(2);
 		
 		new Person(machines, "Mickey");
 		new Person(machines, "Donald");
