@@ -1,4 +1,4 @@
-package threads.examples.waitnotify.DiceGame;
+package threads.examples.waitnotify.dicegame;
 
 import java.util.Random;
  
