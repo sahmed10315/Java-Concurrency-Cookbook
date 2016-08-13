@@ -27,7 +27,7 @@ class RepeatedExecutor implements Executor {
 	}
 }
 
-public class Executors {
+public class CustomExecutor {
 	public static void main(String[] args) {
 		Runnable runnable = new Task();
 		System.out.println("Calling Task.run() by directly creating a Thread object");
